@@ -1,0 +1,15 @@
+/Users/mak/Projects/ipv6/ipv6/bin/Debug/net7.0/ipv6
+/Users/mak/Projects/ipv6/ipv6/bin/Debug/net7.0/ipv6.deps.json
+/Users/mak/Projects/ipv6/ipv6/bin/Debug/net7.0/ipv6.runtimeconfig.json
+/Users/mak/Projects/ipv6/ipv6/bin/Debug/net7.0/ipv6.dll
+/Users/mak/Projects/ipv6/ipv6/bin/Debug/net7.0/ipv6.pdb
+/Users/mak/Projects/ipv6/ipv6/obj/Debug/net7.0/ipv6.csproj.AssemblyReference.cache
+/Users/mak/Projects/ipv6/ipv6/obj/Debug/net7.0/ipv6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/ipv6/ipv6/obj/Debug/net7.0/ipv6.AssemblyInfoInputs.cache
+/Users/mak/Projects/ipv6/ipv6/obj/Debug/net7.0/ipv6.AssemblyInfo.cs
+/Users/mak/Projects/ipv6/ipv6/obj/Debug/net7.0/ipv6.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/ipv6/ipv6/obj/Debug/net7.0/ipv6.dll
+/Users/mak/Projects/ipv6/ipv6/obj/Debug/net7.0/refint/ipv6.dll
+/Users/mak/Projects/ipv6/ipv6/obj/Debug/net7.0/ipv6.pdb
+/Users/mak/Projects/ipv6/ipv6/obj/Debug/net7.0/ipv6.genruntimeconfig.cache
+/Users/mak/Projects/ipv6/ipv6/obj/Debug/net7.0/ref/ipv6.dll
